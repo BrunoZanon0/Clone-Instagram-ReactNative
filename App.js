@@ -20,7 +20,7 @@ class meuApp extends Component{
           {
             id: '1', 
             nome: 'Bruno Zanon', 
-            descricao: 'Mais um dia de muitos bugs :)', 
+            descricao: 'Mais um dia de muitos bugs 1:)', 
             imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil1.png', 
             imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto1.png',  
             likeada: true, 
